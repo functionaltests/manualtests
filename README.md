@@ -1,0 +1,2 @@
+# manualtests
+For manual tests
