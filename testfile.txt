@@ -63,7 +63,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="318D:4193:168361:20FE6F:5FF863D2" data-pjax-transient="true"/><meta name="html-safe-nonce" content="f15954d97a6d44237ae434863b6df7838bac1a2755d0a0a0991a70c87ff2133f" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIzMThEOjQxOTM6MTY4MzYxOjIwRkU2Rjo1RkY4NjNEMiIsInZpc2l0b3JfaWQiOiI1NjI0MjkwMjUxNTk0Mjk0MjI2IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="c2ba8aa66e6fe71c5d739e6c70d5f58c975968c21a002952715f0c274eb4d249" data-pjax-transient="true"/>
+  <meta name="request-id" content="DB38:10B6:1768D4:2257E2:5FF863E6" data-pjax-transient="true"/><meta name="html-safe-nonce" content="dc34999827ffd92c5264800a92158a97939e795c1c71a0a9c497475d6c4654a1" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJEQjM4OjEwQjY6MTc2OEQ0OjIyNTdFMjo1RkY4NjNFNiIsInZpc2l0b3JfaWQiOiI0NDgzMTMwNDA3NTUzMzYwODcwIiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="4cb956e77d0b79115504d66a97e684d28a9241142f5dc82102e8dbb719b0b32c" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:308063865" data-pjax-transient>
 
@@ -312,7 +312,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="s/EnTVvNJR+wLxohcJk+kBQK1mquW16CAalwZjcui3aHEDF/VtiEIwICEFYYHYV7orjFBWoYGGKTqca48k8wzg==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="lMMgfAcUO6S6cJyYf2oR/iXdw5hMiB0RaL4nLH2gbwhQWvMu66fJzcBinIrxSZ5lYe23BxUwNWYwgs9n+b1jtA==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
